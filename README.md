@@ -1,4 +1,4 @@
-## Curso de JavaScript: objetos
+## Curso de JavaScript I: algoritmos de ordenação
 
 #### Aprendizados desenvolvidos durante o curso:
 
